@@ -3,25 +3,48 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!--what is this for?-->
-        <meta name="viewport" content="width=device-width" initial-scale="1">
+
         <link rel="stylesheet" type="text/css" media="screen" href="resources/style.css">
-        <title>Burberry Website Design System</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="resources/hamburger.css">
+        <title>Prints: Website Design System</title>
+
+        <link href="https://fonts.googleapis.com/css2?family=Commissioner:wght@700&display=swap" rel="stylesheet">
     </head>
     <body>
         <header>
-            <h1>Website Design System for <span id="brand">Burberry</span></h1>
-            <p>A reference guide for Burberry's iconic checks: colours and fonts.</p>
+            <nav role='navigation'>
+                <div id="menuToggle">
+                  <input type="checkbox" />                               <!--hidden checkbox is used as click reciever, to use :checked selector on it.-->
+                  <span></span>                                           <!--spans act as the hamburger button-->
+                  <span></span>
+                  <span></span>
+                  
+                  <ul id="menu">
+                    <a href="#"><li>Colours</li></a>
+                    <a href="#"><li>Fonts</li></a>
+                    <a href="#"><li>Icons</li></a>
+                  </ul>
+                </div>
+              </nav>
+
+            <div id="heading">
+              <h1>Design System</h1>
+              <p>A general website design system inspired by iconic fashion prints.</p>
+            </div>
         </header>
-        <nav>
-            <ul>
-            <li><a href="">colours</a></li>
-            <li><a href="">fonts</a></li>
-            <li><a href="">colours</a></li>
-            <li><a href="">text styles</a></li>
-            <li><a href="">icons</a></li>
-            </ul>
-        </nav>
-        <main><section></section></main>
-        <footer></footer>
+
+<!--colour section-->
+            <section>
+                <h2>Colours</h2>
+            </section>
+            <section>
+                <h2>Fonts</h2>
+            </section>
+            <section>
+                <h2>Text Styles</h2>
+            </section>
+        </main>
     </body>
 </html>
+
+
