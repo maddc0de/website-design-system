@@ -33,7 +33,7 @@ The collection is inspired by iconic fashion brands such as Burberry and Gucci.
 ---
 
 
-### Acknowledgments
+### Acknowledgements
 
 ---
 
