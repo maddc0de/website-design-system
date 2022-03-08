@@ -45,4 +45,4 @@ I incorporated Erik Terwan's Hamburger-navigation-CSS-only code on my website.
 ---
 
 - add more interactivity
-- add more to the collection of styles.
+- add more to the collection of styles
