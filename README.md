@@ -32,6 +32,8 @@ The collection is inspired by iconic fashion brands such as Burberry and Gucci.
 
 ---
 
+view the site by [clickin here](https://maddc0de.github.io/website-design-system/) :)
+
 
 ### Acknowledgements
 
