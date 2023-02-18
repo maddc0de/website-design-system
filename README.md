@@ -10,7 +10,7 @@
 ---
 
 ### Introduction
-Challenge Project from Codecademy: The goa is to build my own basic design system for a website - a collection of colours, fonts and styles.
+Challenge Project from Codecademy: The goal is to build my own basic design system for a website - a collection of colours, fonts and styles.
 The collection is inspired by iconic fashion brands such as Burberry and Gucci.
 
 ---
